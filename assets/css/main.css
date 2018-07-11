@@ -6,8 +6,10 @@
 	templated.co @templatedco
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 */
-.video-js.vjs-has-started .vjs-tech {
-	pointer-events: none;
+.vjs-default-skin.vjs-user-inactive .vjs-control-bar {
+	display: block;
+	visibility: hidden;
+	opacity: 0;
   }
 /* Reset */
 
